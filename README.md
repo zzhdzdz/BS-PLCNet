@@ -1,4 +1,4 @@
-# TEA-PSE 2.0
+# BS-PLCNet
 
 
 Demo clips for "BS-PLCNet".
