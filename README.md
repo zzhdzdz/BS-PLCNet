@@ -1,7 +1,7 @@
 # BS-PLCNet
 
 
-Demo clips for "BS-PLCNet".
+Demo clips for "BS-PLCNet: Band-split Packet Loss Concealment Network with Multi-task Learning Framework and Multi-discriminators".
 
 Authors:
 Zihan Zhang, Jiayao Sun, Xianjun Xia, Chuanzeng Huang, Yijian Xiao, Lei Xie.
